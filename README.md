@@ -1,6 +1,6 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://astro-platform-starter.netlify.app/)
+[Live Demo](https://6757c58f47956c8785cb6f3b--example-template-10-12.netlify.app/)
 
 A modern starter based on Astro.js, Tailwind, daisyUI, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
 
